@@ -8,7 +8,7 @@
 [![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@reyestech2024)
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/reyestech2024) 
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/MIANREVA2024)
-[![blogger](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://reyestech2024.blogspot.com/)
+[![blogger](https://img.shields.io/static/v1?label=&message=bloggerb&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://reyestech2024.blogspot.com/)
 
 <!--
 [![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/edfierropro)
